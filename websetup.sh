@@ -1,6 +1,6 @@
 #!/bin/bash
-WEBURL="https://www.tooplate.com/zip-templates/2108_dashboard.zip"
-WEBNAME="2108_dashboard"
+WEBURL="https://www.tooplate.com/zip-templates/2137_barista_cafe.zip"
+WEBNAME="2137_barista_cafe"
 DOWNLOADPATH="/tmp/webfiles"
 WEBPATH="/var/www/html"
 # Check OS
